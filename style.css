@@ -1,0 +1,74 @@
+body {
+padding: 0 0 20px 0;
+border: solid black;
+ background-color: lightGray;
+}
+.hj{
+text-align: center;
+ background: linear-gradient(45deg,lightBlue,yellow,green);
+ border: solid green;
+ border-radius: 30px 30px 30px 30px;
+}
+.h{
+margin: 10px;
+padding: 20px;
+text-align: center;
+ font-size: 50px;
+ color: white;
+ border: solid black;
+ background: linear-gradient(45deg,blue,yellow);
+}
+.ha{
+padding: 30px;
+margin: 10px;
+ border: solid black;
+text-align: center;
+border-radius: 0 0 300px 0;
+ background: linear-gradient(45deg,orange,lightBlue,lightGreen);
+}
+.home{
+color: black;
+background-color: lightPink;
+font-weight: bold;
+}
+
+.home1{
+font-style: italic;
+color: black;
+}
+.menu{
+border: solid blue;
+padding: 30px;
+margin: 10px;
+background: linear-gradient(45deg,blue,yellow);
+border-radius: 0 0 200px 0;
+color: black;}
+.about{
+font-style: italic;
+background-color: lightGreen;
+ color: brown;}
+.button{
+margin: 10px 10px 100px 10px;
+}
+.followstyle{
+border: solid blue;
+padding: 30px;
+margin: 10px;
+background: linear-gradient(45deg,orange,white,green);
+color: black;}
+.in{
+border: solid gold;
+padding: 10px;
+margin: 10px;
+}
+.ul{
+color: red;
+font-family: Grumpy;
+}
+.follow{
+border: solid blue;
+padding: 30px;
+margin: 10px;
+background: linear-gradient(45deg,orange,white,green);
+color: black;
+}
